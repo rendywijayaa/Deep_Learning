@@ -1,0 +1,17 @@
+*.pyc
+*.zip
+
+data/*
+*/data
+
+model/*
+*/model
+
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints
+
+_MACOSX/*
+*/_MACOSX
+
+__MACOSX/*
+*/__MACOSX
